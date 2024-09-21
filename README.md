@@ -9,8 +9,8 @@ My name is Mr. Pongsapak Boonsonti, or as my friends often call me, "Pong." I am
 
 ## 🏕️ Activity :
 - JWC 13 (Junior Webmaster Camp 13) 💜<br>
-- IT CAMP 20 | KMITL 🧡<br>
-And other activities that were forgotten 👨🏻‍🦯<br>
+- IT CAMP 20 | KMITL 🧡
+And other activities that were forgotten 👨🏻‍🦯
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100024574573974) 
