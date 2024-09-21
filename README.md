@@ -1,16 +1,16 @@
 <h2 align="left">Oi❗ Oi❗ Oi❗, I'm PONG</h1>
 
 <h3 align="left">🧑🏿‍🦲 About Me :</h3>
-<p>My name is Mr. Pongsapak Boonsonti, or as my friends often call me, "Pong." I am currently studying in Mathayom 6 (Grade 12) in Saraburi.</p>
+My name is Mr. Pongsapak Boonsonti, or as my friends often call me, "Pong." I am currently studying in Mathayom 6 (Grade 12) in Saraburi.<br>
 
 <h3 align="left">🔥 Experience :</h3>
-<p>- Saraburiwitthayakhom School 💛💙 (2022 - present)</p>
-<p>- Assumption Convent School 👨🏻‍🦯 (2019 - 2021)</p>
+- Saraburiwitthayakhom School 💛💙 (2022 - present)<br>
+- Assumption Convent School 👨🏻‍🦯 (2019 - 2021)<br>
 
 <h3 align="left">🏕️ Activity :</h3>
-<p>- JWC 13 (Junior Webmaster Camp 13) 💜</p>
-<p>- IT CAMP 20 | KMITL 🧡</p>
-<p>And other activities that were forgotten 👨🏻‍🦯</p>
+- JWC 13 (Junior Webmaster Camp 13) 💜<br>
+- IT CAMP 20 | KMITL 🧡<br>
+And other activities that were forgotten 👨🏻‍🦯<br>
 
 <h3 align="left">🌐 Socials :</h3>
 <p align="left">
