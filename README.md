@@ -3,8 +3,7 @@
 <h3 align="left">🧑🏿‍🦲 About Me </h3>
 My name is Mr. Pongsapak Boonsonti, or as my friends often call me, "Pong." I am currently studying in Mathayom 6 (Grade 12) in Saraburi.
 
-<h3 align="left">🌐 Socials :</h3>
-### 🔥 Experience :
+<h3 align="left">🔥 Experience :</h3>
 - Saraburiwitthayakhom School 💛💙 (2022 - present)
 - Assumption Convent School 👨🏻‍🦯 (2019 - 2021)
 
