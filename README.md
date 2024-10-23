@@ -1,7 +1,7 @@
 # Oi❗ Oi❗ Oi❗, I'm PONG
 
 ## 🧑🏿‍🦲 About Me :
-My name is Mr. Pongsapak Boonsonti, or as my friends often call me, "Pong." I am currently studying in Mathayom 6 (Grade 12) in Saraburi.<br>
+My name is Pongsapak Boonsonti, or as my friends often call me, "Pong." I am currently studying in Mathayom 6 (Grade 12) in Saraburi.<br>
 
 ## 🔥 Experience :
 - Saraburiwitthayakhom School 💛💙 (2022 - present)<br>
